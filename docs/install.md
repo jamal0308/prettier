@@ -1,4 +1,4 @@
----
+-node --eval "fs.writeFileSync('.prettierrc','{}\n')"--
 id: install
 title: Install
 ---
